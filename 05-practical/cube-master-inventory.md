@@ -51,6 +51,14 @@ Single navigation reference for every freezer cube in the BlueVeda system. Lists
 |---|---|---|---|
 | Lemon juice | 3 months | ~1 tbsp (mini) | [freeze-system.md](./freeze-system.md) |
 | Black bean liquid (anthocyanin reserve) | 3 months | ~2 tbsp (regular) | [protocol-blackbeans.md](./protocol-blackbeans.md) |
+| **Concentrated paneer whey** | **3 months** | ~1 tbsp (mini) | [paneer-high-protein.md](./paneer-high-protein.md) |
+
+### Protein-Anchor Items (not cube-shaped but freezer-stable)
+
+| Item | Freeze life | Form | Recipe |
+|---|---|---|---|
+| **High-Protein Paneer** (pressed slab) | **2 weeks** (texture: more crumbly, best for sabzi/bhurji) | Wrapped in parchment + foil + ziplock | [paneer-high-protein.md](./paneer-high-protein.md) |
+| **Protein Methi Thepla** (cooked, stacked with parchment) | **2 months peak · 4 months max** | Cooked theplas, stacked with parchment, ziplock with air squeezed out | [protein-methi-thepla.md](./protein-methi-thepla.md) |
 
 ### Future Cubes (planned · not yet on master)
 
