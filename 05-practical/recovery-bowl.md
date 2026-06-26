@@ -57,6 +57,7 @@ Trick the brain into sweetness perception without an insulin spike. No sugar, no
 | Training day | 1 scoop | Full bowl |
 | Rest / Cardio day | **SKIP casein scoop** | Yogurt + berries + phantom sweetness only |
 | Missed 17:30 window | + 1 scoop Unflavored Whey | Add alongside casein |
+| **[Paneer](./paneer-high-protein.md) at 12:00** | **SKIP casein scoop** OR cap whey at 17:30 to ½ scoop | Avoid 3 dairy-protein vectors in one day (paneer + casein + whey ≈ 80 g dairy protein — exceeds MPS upper threshold + adds digestive load) |
 
 ---
 

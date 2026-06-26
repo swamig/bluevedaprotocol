@@ -83,6 +83,8 @@ See full workflow: [High-Signaling Garlic-Chili Pulse](garlic-chili-oil.md)
 
 **Frequency:** 2x/week (rotation days)
 
+**Rotation with other protein anchors:** alternates at the 12:00 meal with chickpea, black bean, lentil, and — when in rotation — [High-Protein Paneer](./paneer-high-protein.md). The 2× tofu cap stacks with a 2–3×/wk paneer cap to give a 4–5×/wk animal/concentrated-protein ceiling. Pure plant-protein days (chickpea, black bean, lentil) fill the remainder.
+
 **The High TRP Activation Pulse:** tofu days use extra Thai chilies in the sear. The combined Jaljeera chili + sear chili + menthol creates the weekly peak capsaicin-menthol synergy — combining TRPV1 (capsaicin) and TRPM8 (menthol) activation massively amplifies anti-inflammatory cytokine downregulation vs. isolated exposure [[Nutrients, 2025]](../07-appendices/master-citations.md#1-trp-receptor-cross-talk-menthol--capsaicin).
 
 **Iron gate:** tofu contains no calcium — it does not trigger the dairy/calcium iron blockade at 12:00. Safe alongside the legume + Vitamin C iron absorption stack [[Zijp, 2000]](../07-appendices/master-citations.md#6-iron-absorption--tannin-blockades-the-matcha-rule).
