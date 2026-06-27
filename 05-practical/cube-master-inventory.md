@@ -144,7 +144,7 @@ The protocol uses two tray cell sizes — pick by volume.
 - [Vegetarian Oyster Sauce](./oyster-sauce-vegetarian.md) — shiitake reduction concentrate
 - [Homemade Sriracha](./sriracha-homemade.md) — Mode A (default · finish from master paste) + Mode B fallback
 - [Veg Oyster + Sriracha Combo](./veg-oyster-sriracha-combo-cubes.md) — pre-combined heat + umami cube
-- [Creamy Coconut Protein Cubes](./coconut-protein-cubes.md) — curry glaze base (with Caribbean M/W/F variant)
+- [Creamy Coconut Protein Cubes](./coconut-protein-cubes.md) — curry glaze base (with Caribbean M/W/F variant + Sriracha-Coconut variant for curry-paste-free path)
 - [Pad Thai Peanut Cubes](./pad-thai-peanut-cubes.md) — peanut-tamarind concentrate
 - [Topical Protocols](./topical-protocols.md) — fenugreek + aloe cubes for hair/skin
 - [Black Beans Protocol](./protocol-blackbeans.md) — black bean liquid anthocyanin cubes
