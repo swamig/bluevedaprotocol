@@ -62,9 +62,19 @@ Single navigation reference for every freezer cube in the BlueVeda system. Lists
 
 ### Future Cubes (planned · not yet on master)
 
-- **Golden Milk Cube** (turmeric + ginger + pepper + cardamom + ashwagandha) — evening curcumin pulse, ~3-month freeze, paired with hot milk
-- **Adaptogenic Night Cubes** (tulsi / saffron / ashwagandha — three separate trays, color-coded) — ~3-month freeze each, replaces Sheet 16 steeping step
+**Adaptogenic / warming drinks**
+- **Adaptogenic Night Cubes** (tulsi / saffron / ashwagandha — three separate trays, color-coded) — ~3-month freeze each · replaces Sheet 16 steeping step
 - **Ginger + Cardamom Warming Cube** (morning matcha-day variant) — ~3-month freeze
+
+**Thai sauce cube series** (extends Sheet 27 family · all coconut-base unless noted)
+- **Green Curry Cube** (gaeng khiao wan) — green chilies + lemongrass + galangal + Thai basil + coconut + lime · daily-eligible · uses galangal (TRPV3 bio-signal)
+- **Yellow Curry Cube** (gaeng karee) — turmeric-forward + coconut + cumin + cardamom · daily-eligible · adds 3rd curry-color to the system, strong curcumin pulse
+- **Massaman Curry Cube** — roasted spices (cumin · coriander · cardamom · cinnamon · star anise · clove) + coconut + tamarind + peanut · 2–3×/wk · roasted-spice antioxidant stack · peanut-adjacent
+- **Pad Krapow Sauce Cube** (Thai holy basil stir-fry) — holy basil + tamari + sriracha + miso + garlic + Thai chili · daily-eligible · fast stir-fry sauce, TRPV1-forward, distinct from coconut-base
+- **Tom Kha Cube** (galangal-coconut soup base) — galangal + lemongrass + lime leaves + Thai chili + coconut + mushroom · 2×/wk · soup-bowl format (different from sauce cubes)
+- **Tom Yum Cube** — lemongrass + galangal + lime leaves + Thai chili + tamari + tamarind (no coconut) · occasional · clear-broth soup, less protocol-aligned (no fat carrier)
+- **Sweet Chili Sauce Cube** (nam chim kai) — Thai chili + garlic + vinegar + date paste (sub for traditional sugar) · occasional · dipping sauce, needs date-paste rewrite to fit no-added-sugar rule
+- **Satay Sauce Cube** (Thai/Indonesian) — peanut + lemongrass + galangal + coconut + tamarind · lower priority · overlaps with [Pad Thai Peanut Cubes](./pad-thai-peanut-cubes.md)
 
 ---
 
