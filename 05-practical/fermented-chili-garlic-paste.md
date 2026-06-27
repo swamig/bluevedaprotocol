@@ -34,7 +34,7 @@ The master paste is the upstream. The three finishes are the downstream. The arc
 
 ## Method (5-7 days)
 
-1. **Pulse coarse.** Peppers + garlic + salt into the food processor — ~10 sec pulse to a coarse paste. **Not smooth.**
+1. **Pulse coarse.** Peppers + garlic + salt into the food processor — ~10 sec pulse to a coarse paste. **Not smooth.** (See "No Food Processor" workaround below.)
 2. **Pack.** Press the paste into a wide-mouth quart jar. Press solids down firmly so the brine rises above them. Leave 1″ headspace.
 3. **Top up if dry.** If brine doesn't cover the solids after packing, add distilled water until covered. **Chlorine kills LAB** — tap water is not acceptable.
 4. **Weight.** Weight the solids under the brine with a fermentation weight or a small ziplock of water. **Exposed pepper goes moldy.**
@@ -42,6 +42,28 @@ The master paste is the upstream. The three finishes are the downstream. The arc
 6. **Ferment.** Room temp (65-75 °F ideal) for **5-7 days.** Burp daily if using a tight lid — CO₂ builds and will crack the jar by day 3.
 7. **Check.** Day 5-7: bubbles rise when stirred; aroma is funky-fruity, not vinegary-yet. Color deepens from bright red toward brick-red.
 8. **Halt.** Refrigerate. The master paste lives in the fridge **6 months**.
+
+### No Food Processor — Three Workarounds
+
+The 10-sec coarse pulse is a convenience step, not a chemistry step. Ferment chemistry doesn't care how the paste was reduced.
+
+| Method | Active time | Notes |
+|---|---|---|
+| **Knife chop + salt massage** (recommended · zero equipment) | ~15 min | Rough-dice peppers ¼″ · smash + chop garlic · combine in bowl with salt · hand-massage 3-5 min until juice releases · pack jar. Produces a superior ferment vs machine — uneven texture creates more microbial niches. |
+| **Vitamix on pulse** | ~10 min | Pre-cut peppers to 1″ chunks · work in 2 batches (4 cups raw max per batch) · 4-6 short pulses on Low (½ sec each) · stop at chunky-salsa texture · DO NOT use tamper (smooths everything) · combine batches in bowl for the pack. |
+| **Box grater** | ~12 min | Grate peppers on largest holes over a bowl (catches juice) · grate garlic on smaller holes or Microplane · stir in salt · pack jar. Gloves strongly recommended — concentrated capsaicin on fingers. |
+
+### Scale-Up for Vitamix-Fed Sriracha (Path A)
+
+[Path A in Sheet 23](./sriracha-homemade.md#mode-a--vitamix-scale-path-a--1-vitamix-worth--96-mini-cubes) uses **4 cups master paste per Vitamix run** to produce ~96 mini Sriracha cubes. The single batch (~3 cups paste) doesn't fully supply one Path A run. Scale options:
+
+| Scale | Peppers | Garlic heads | Salt | Yield | Jar |
+|---|---|---|---|---|---|
+| **Single batch** | 1 lb | 1 | 18 g | ~3 cups | Quart |
+| **1.5× (Path A supply)** | 1.5 lb | 1-2 | 27 g | ~4.5 cups | Half-gallon |
+| **2× (Path A + leftover for Combo or Stir-Fry)** | 2 lb | 2 | 36 g | ~6 cups | Half-gallon |
+
+For dried chili swaps (Kashmiri + Thai bird's eye) at each scale, see [Sheet 38 — Red Chili Management §8 Dried-to-Fresh Conversion](./red-chili-management.md#8-dried-to-fresh-conversion-for-master-paste).
 
 ## Equipment
 
@@ -182,7 +204,8 @@ The home master paste keeps the live LAB until the moment a finish is cubed or h
 
 ## Related Pages
 
-- [sriracha-homemade.md](./sriracha-homemade.md) — now defers to this sheet for Mode A
+- [sriracha-homemade.md](./sriracha-homemade.md) — Sheet 23 · now defers to this sheet for Mode A · contains Path A Vitamix scale-up
+- [red-chili-management.md](./red-chili-management.md) — Sheet 38 · chili sourcing, dried-Kashmiri swap, bug/mold inspection, rehydration, freeze-on-arrival rule
 - [veg-oyster-sriracha-combo-cubes.md](./veg-oyster-sriracha-combo-cubes.md) — combo cube downstream
 - [sesame-sauce-cubes.md](./sesame-sauce-cubes.md) — heat layer in the sesame sauce comes from here (sub 1 finished Sriracha cube for the sriracha line)
 - [garlic-chili-oil.md](./garlic-chili-oil.md) — day-of fresh rested garlic still needed for full allicin yield; master paste is a depth layer

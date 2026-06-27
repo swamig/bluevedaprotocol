@@ -154,6 +154,10 @@ The protocol uses two tray cell sizes — pick by volume.
 - [Fermented Chili-Garlic Master Paste](./fermented-chili-garlic-paste.md) — 1-week lacto-ferment · feeds Sriracha + Combo + Stir-Fry Pulse finishes
 - [Koji Pretreatment](./koji-pretreatment.md) — shio koji + amazake · pretreats tofu/chickpea/black bean/paneer/patties for umami amplification + ergothioneine
 
+**Sourcing + handling references:**
+
+- [Red Chili Management](./red-chili-management.md) — Sheet 38 · sourcing fresh + dried red chilies · bug + mold inspection · freeze-on-arrival rule · rehydration method · dried-to-fresh conversion math for the master paste
+
 **Where the cubes get used:**
 
 - [Tofu Protocol](./protocol-tofu.md) — primary destination for sesame + combo + coconut cubes
