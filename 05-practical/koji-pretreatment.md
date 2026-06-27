@@ -7,7 +7,7 @@ priority: 'supporting'
 
 # Koji Pretreatment
 
-The Round 7 fermentation upgrade. **Shio koji** (salty koji paste) and **amazake** (sweet koji rice) run *upstream* of the cube/sear workflow as a pretreatment layer for tofu, chickpea, black bean, and paneer anchors. A 12–48 hr koji rub before the freeze or flash sear cleaves protein into free amino acids (glutamate amplification), produces ergothioneine (a mitochondria-targeting antioxidant), and generates bioactive peptides — most of which survive freezing into the cube and the flash sear.
+The Round 7 fermentation upgrade. **Shio koji** (salty koji paste) and **amazake** (sweet koji rice) run *upstream* of the cube/sear workflow as a pretreatment layer for tofu, chickpea, black bean, and paneer anchors. A 12–48 hr koji rub before the freeze or flash sear cleaves protein into free amino acids (glutamate amplification), produces ergothioneine (a mitochondria-targeting antioxidant) [[PMC12152031]](../07-appendices/master-citations.md#18-koji-fermentation-bio-signals-aspergillus-oryzae), and generates bioactive peptides [[PMC8063943]](../07-appendices/master-citations.md#18-koji-fermentation-bio-signals-aspergillus-oryzae) — most of which survive freezing into the cube and the flash sear.
 
 Pairs with the new **"Pre-Ferment, Then Freeze"** section in [freeze-system.md](./freeze-system.md). The doctrine: ferment, then freeze, then sear — the enzymes do their work on the interior before cold storage halts further degradation, and the surface residue gets wiped off before high-heat cooking.
 
@@ -145,8 +145,8 @@ The protocol's protein anchors and where koji slots in:
 | Signal | Mechanism | Status in the protocol |
 |---|---|---|
 | **Umami amplification** | Koji proteases cleave protein → free glutamate. Sears taste 2–3× more savory at the same salt level. The capsaicin/menthol flash-sear synergy now lands on amino-acid-rich tofu instead of plain protein. | New — extends the existing flavor signal stack |
-| **Ergothioneine** | Koji synthesizes ergothioneine, a sulfur amino acid antioxidant with **selective mitochondrial uptake** via the OCTN1 transporter. Heat-stable, freeze-stable, survives the cube. | **New bio-signal** — distinct from SAC (black garlic) and allicin (rested garlic) |
-| **Bioactive peptides** | Koji-fermented protein generates short peptides with documented ACE-inhibitory + antioxidant activity. Thermostable below ~150 °C; the flash sear lasts <90 sec per side, so the surface peptides survive intact. | New — synergistic with the cube system's antioxidant load |
+| **Ergothioneine** | Koji synthesizes ergothioneine, a sulfur amino acid antioxidant with **selective mitochondrial uptake** via the OCTN1 transporter. Heat-stable, freeze-stable, survives the cube [[PMC12152031]](../07-appendices/master-citations.md#18-koji-fermentation-bio-signals-aspergillus-oryzae). | **New bio-signal** — distinct from SAC (black garlic) and allicin (rested garlic) |
+| **Bioactive peptides** | Koji-fermented protein generates short peptides with documented ACE-inhibitory + antioxidant activity [[PMC8063943]](../07-appendices/master-citations.md#18-koji-fermentation-bio-signals-aspergillus-oryzae). Thermostable below ~150 °C; the flash sear lasts <90 sec per side, so the surface peptides survive intact. | New — synergistic with the cube system's antioxidant load |
 | **Lower-allergen profile** | Koji partially pre-hydrolyzes soy + legume proteins, reducing the intact-protein epitope load. Useful for sensitive guts where unhydrolyzed tofu or chickpeas cause friction. | Side benefit |
 
 ---

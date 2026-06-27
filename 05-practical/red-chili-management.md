@@ -92,20 +92,20 @@ Companion to [Sheet 23 — Homemade Sriracha](./sriracha-homemade.md) and [Sheet
 
 | Sign | Action |
 |---|---|
-| Any visible fuzz, discoloration patch, or "powdery white" patch on chili | **Toss that chili.** Mold has already penetrated flesh — mycotoxins are heat-stable, acid-stable, ferment-stable. **Cannot be washed off.** |
+| Any visible fuzz, discoloration patch, or "powdery white" patch on chili | **Toss that chili.** Mold has already penetrated flesh — mycotoxins are heat-stable, acid-stable, ferment-stable [[Raters & Matissek, 2008]](../07-appendices/master-citations.md#19-mycotoxin-contamination--spice-safety). **Cannot be washed off** [[PMC6356975]](../07-appendices/master-citations.md#19-mycotoxin-contamination--spice-safety). |
 | Multiple chilies in bag show visible mold | **Toss entire bag.** Spores have spread invisibly to others. |
 | Musty, damp, mildewy smell (not chili smell) | **Toss entire bag.** Likely aflatoxin / ochratoxin contamination. |
 | Chilies clumped together by sticky substance | **Toss entire bag.** Mold mycelium binding them. |
 
-**Why this is non-negotiable:** Aflatoxins (from *Aspergillus flavus*) and ochratoxins (from *A. ochraceus*) are Group 1 carcinogens. They survive cooking, freezing, fermenting, and any wash. They penetrate the flesh long before visible mold appears. A $5 bag of dried chilies is never worth gambling on this.
+**Why this is non-negotiable:** Aflatoxins (from *Aspergillus flavus*) and ochratoxins (from *A. ochraceus*) are Group 1 carcinogens [[Raters & Matissek, 2008]](../07-appendices/master-citations.md#19-mycotoxin-contamination--spice-safety). They survive cooking, freezing, fermenting, and any wash. They penetrate the flesh long before visible mold appears [[PMC6356975]](../07-appendices/master-citations.md#19-mycotoxin-contamination--spice-safety). A $5 bag of dried chilies is never worth gambling on this.
 
 ---
 
 ## 5. Freeze-On-Arrival Rule
 
-**Every new bag of dried chilies goes straight to the freezer for 72 hr before pantry storage** — kills bugs at every life stage (adults, larvae, eggs). Then transfer to airtight glass jars for pantry storage.
+**Every new bag of dried chilies goes straight to the freezer for 72 hr before pantry storage** — kills bugs at every life stage (adults, larvae, eggs) [[Collins & Conyers, 2010]](../07-appendices/master-citations.md#20-pantry-pest-cold-mortality-coleoptera-anobiidae). Then transfer to airtight glass jars for pantry storage.
 
-This is the single biggest preventive measure against pantry-pest infestation. Most "clean-looking" dried chilies have at least eggs present from the source warehouse.
+This is the single biggest preventive measure against pantry-pest infestation. Most "clean-looking" dried chilies have at least eggs present from the source warehouse. Reliable egg-and-larvae kill for cigarette beetle (*Lasioderma serricorne*) and drugstore beetle (*Stegobium paniceum*) requires sustained exposure below 0 °F / −18 °C — warmer kitchen freezers need proportionally longer holds [[Collins & Conyers, 2010]](../07-appendices/master-citations.md#20-pantry-pest-cold-mortality-coleoptera-anobiidae).
 
 ### Honest freezer temperature reality
 

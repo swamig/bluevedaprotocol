@@ -46,14 +46,14 @@ The cube system is built for **post-biotic** delivery — metabolites that survi
 
 | Compound | Source ferment | Why it survives |
 |---|---|---|
-| Lactic acid | Sriracha Mode A, kraut/kimchi brine, whey kvass | pH-stable below 0°C, no enzymatic dependency |
+| Lactic acid | Sriracha Mode A, kraut/kimchi brine, whey kvass | pH-stable below 0°C, no enzymatic dependency [[PMC3769745]](../07-appendices/master-citations.md#21-post-biotic-freeze-stability-lactic-acid-metabolites) |
 | Free amino acids (glutamate, etc.) | Koji pretreatment, miso, soy/tamari | Amino acids are thermostable + freeze-stable |
-| Bioactive peptides | Koji, fermented dairy, fermented legumes | Short peptides (<10 aa) tolerate freeze well |
-| Bacteriocins (antimicrobial peptides) | LAB ferments | Peptide-class, freeze-stable |
+| Bioactive peptides | Koji, fermented dairy, fermented legumes | Short peptides (<10 aa) tolerate freeze well [[PMC8063943]](../07-appendices/master-citations.md#18-koji-fermentation-bio-signals-aspergillus-oryzae) |
+| Bacteriocins (antimicrobial peptides) | LAB ferments | Peptide-class, freeze-stable [[PMC3769745]](../07-appendices/master-citations.md#21-post-biotic-freeze-stability-lactic-acid-metabolites) |
 | B-vitamins (folate, B12, riboflavin) | LAB ferments, koji | Water-soluble vitamins are freeze-stable |
 | Organic acids (acetic, propionic, butyrate) | Vinegars, kombucha, kraut | Stable across temperature range |
 | Polyphenol aglycones (from glycosides) | Fermentation hydrolysis | Aglycones MORE bioavailable than parent glycosides; survive freeze |
-| Ergothioneine | Koji-cultured grains/legumes | Sulfur amino acid antioxidant, thermostable |
+| Ergothioneine | Koji-cultured grains/legumes | Sulfur amino acid antioxidant, thermostable [[PMC12152031]](../07-appendices/master-citations.md#18-koji-fermentation-bio-signals-aspergillus-oryzae) |
 | Phytate degradation (already done) | Sourdough, koji, fermented legumes | Once degraded, stays degraded |
 | Allicin precursors (alliin) | Whole garlic in fermented paste (uncrushed during cube formation) | Alliin survives freeze; activates on day-of crush |
 
@@ -61,7 +61,7 @@ The cube system is built for **post-biotic** delivery — metabolites that survi
 
 | Live thing | Why it doesn't survive freeze (or survives badly) |
 |---|---|
-| LAB live cells | Cell wall ruptures from ice crystals, ~50–90% die; survivors go dormant. Cubes deliver the metabolites these cells made, not the cells themselves. |
+| LAB live cells | Cell wall ruptures from ice crystals, ~50–90% die; survivors go dormant [[PMC12111118]](../07-appendices/master-citations.md#21-post-biotic-freeze-stability-lactic-acid-metabolites). Cubes deliver the metabolites these cells made, not the cells themselves. |
 | Aspergillus oryzae (koji) live cells | Same as LAB — viability drops sharply. Enzymes (proteases/amylases) already did their job upstream. |
 | Yeast (Brettanomyces, Saccharomyces) | Mostly killed |
 | Allicin (already-formed) | Survives short freeze (~weeks) but degrades over months; for full activity, crush garlic day-of (the existing protocol rule) |
