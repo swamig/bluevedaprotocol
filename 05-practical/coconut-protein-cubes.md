@@ -39,6 +39,81 @@ Follows the design principles in the [Sauce Cubing Master Guide](./sauce-cubing-
 
 > **Thai chilies freeze whole in a labeled bag · 3–6 month stock · use direct from frozen (chop or blend without thawing).** Cross-link [freeze-system.md](./freeze-system.md) (Sheet 12).
 
+## Sriracha-Coconut Variant (curry-paste-free · daily-eligible)
+
+When you want to skip the commercial red curry paste — sub [Sriracha cubes from Sheet 23](./sriracha-homemade.md) (ideally Mode A finished from [Sheet 37 master paste](./fermented-chili-garlic-paste.md)) for the curry paste line. Two flavor tiers depending on how close to "real curry" you want to land.
+
+### What you trade
+
+Sriracha covers the chili-garlic-acid core of curry paste but lacks the Thai aromatic stack (lemongrass · galangal · kaffir lime · toasted cumin/coriander seeds). The variants below split by how much of the aromatic stack you want to rebuild.
+
+| Variant | Curry character | Extra ingredients beyond pantry | Use when |
+|---|---|---|---|
+| **Tier 1 · Sriracha-only** | ~30% curry · 70% Thai sweet chili-coconut | None | Zero new shopping · accept the Thai-sweet-chili profile |
+| **Tier 2 · Sriracha + build-your-own + lemongrass** | ~75% curry · 25% Sriracha fusion | Lemongrass paste tube ($4) | Close-to-curry without buying commercial curry paste |
+
+### Sriracha sub ratios
+
+Sriracha is more dilute than curry paste (~80% water vs concentrated chili-garlic mash) — need more cubes per tablespoon of curry paste replaced.
+
+| Scale | Curry paste being replaced | Sriracha cubes to sub |
+|---|---|---|
+| Single batch (1 can coconut milk) | 2 tbsp | **3-4 Sriracha cubes** (~3-4 tsp) |
+| 4× Vitamix run (4 cans) | ½ cup (8 tbsp) | ~12-16 Sriracha cubes (~⅓ cup melted) |
+| 8× Vitamix batch (8 cans) | 1 cup (16 tbsp) | ~24-32 Sriracha cubes (~½-⅔ cup melted) |
+
+### Tier 1 · Sriracha-only · single batch ingredient table
+
+| Ingredient | Amount | Delta from default |
+|---|---|---|
+| Full-fat coconut milk | 1 can | Same |
+| **Sriracha cubes** | **3-4 cubes** (~3-4 tsp) | **Replaces 2 tbsp curry paste** · drop at simmer step 1 |
+| Tamari / soy sauce | 2 tbsp | Same |
+| Lime juice | 2 tbsp | Same · stays in for acid lock |
+| Salt | **¼ tsp** | **Reduced from ½ tsp** — Sriracha already has salt |
+| Fresh ginger paste | **1.5 tbsp** | **Bumped from 1 tbsp** — extra aromatic warmth |
+| Arrowroot slurry | 1 tsp + 2 tbsp water | Same · optional |
+| **SKIP** Thai bird's eye chili | — | Sriracha already provides the chili layer |
+| Black pepper, cracked | ½ tsp | Same |
+| Black garlic powder | 1 tsp | Same |
+| White miso (off-heat) | 1 tbsp | Same |
+| Pea protein OR hemp hearts | 2 tbsp | Same |
+
+### Tier 2 · Sriracha + build-your-own + lemongrass · single batch additions
+
+Add ON TOP of the Tier 1 ingredient list:
+
+| Spice | Single batch | Why |
+|---|---|---|
+| Turmeric | 1 tsp | Curcumin · paired with the black pepper for absorption |
+| Ground cumin | 1 tsp | Warm depth |
+| Ground coriander | 1 tsp | Citrusy spice |
+| Ground cardamom | ½ tsp | Floral warm note |
+| Ground cinnamon | ¼ tsp | Sweet-warm bridge |
+| **Lemongrass paste** (Gourmet Garden tube) | **1 tsp · CRITICAL** | The single biggest unlock for Thai profile · $4 tube lasts months in fridge |
+
+Optional further upgrades for ~85% curry character: 1 frozen kaffir lime leaf (crumbled into the simmer) · ¼ tsp galangal powder if available.
+
+### Method tweak for both tiers
+
+Drop Sriracha cubes into the saucepan at **step 1** with the coconut milk and other ingredients · cubes melt by minute 3 of the simmer · acid + chili + fermented depth all integrate. Don't add Sriracha off-heat — you want the heat to integrate into the coconut base, not pulse on top.
+
+### Daily-eligibility note
+
+3-4 Sriracha cubes per batch = ~1 Sriracha cube per ~4 finished cubes (since one batch makes 16 cubes). At one finished cube per meal, that's ~¼ Sriracha cube of capsaicin per meal — daily-eligible. Don't stack a habanero on top (would push to M/W/F only per Sheet 08 midday-heat-pulse rule).
+
+### Freeze life — same as default (3 months)
+
+Acid + salt + reduction preservation stack intact. Sriracha's vinegar + salt actually adds modestly to the acid lock (drops final pH slightly lower than default ~5).
+
+### When to use which variant
+
+| Today | Recommendation |
+|---|---|
+| Out of curry paste · want closest curry feel · willing to buy 1 thing | **Tier 2** (grab lemongrass tube at next grocery run) |
+| Out of curry paste · zero new shopping | **Tier 1** (accept Thai-sweet-chili profile) |
+| Have curry paste already | Use **default recipe** with the Sriracha-curry fusion sub (1 Sriracha cube instead of Thai chili) |
+
 ## Caribbean Variant (M/W/F Pulse Only)
 
 A capsaicin-pulse variant for M/W/F lift days. Swaps the Thai/Indian spice profile for Caribbean aromatics (allspice + thyme + nutmeg) and the Thai chili for ½ habanero. The lime **ZEST** is the antioxidant amplifier — adds water-soluble flavonoids (hesperidin, naringin) that recycle the lipid-phase capsaicinoids. Make a small parallel batch (~8 cubes), label distinctly, pull only on lift days.
@@ -174,7 +249,9 @@ The preservation stack: **full-fat coconut milk + acid + salt + reduction**.
 - [Sesame Sauce Cubes](./sesame-sauce-cubes.md) — sister sauce, the soy-glaze flavor profile
 - [Pad Thai Peanut Cubes](./pad-thai-peanut-cubes.md) — sister sauce, the peanut-tamarind flavor profile
 - [Vegetarian Oyster Sauce](./oyster-sauce-vegetarian.md) — shiitake reduction concentrate · stacks for stir-fries
-- [Homemade Sriracha](./sriracha-homemade.md) — heat layer · sub Thai chili if you want a more familiar heat
+- [Homemade Sriracha](./sriracha-homemade.md) — Sheet 23 · heat layer · used directly in the Sriracha-Coconut variant
+- [Fermented Chili-Garlic Master Paste](./fermented-chili-garlic-paste.md) — Sheet 37 · upstream of Sriracha cubes used in the Sriracha-Coconut variant
+- [Red Chili Management](./red-chili-management.md) — Sheet 38 · sourcing + inspection + rehydration for any dried chilies feeding the curry paste or master paste
 - [Sauce Cubing Master Guide](./sauce-cubing-master-guide.md) — the design principles that govern every sauce cube
 - [Master Freeze System](./freeze-system.md) — rested garlic stash + thaw cadences
 - [Tofu Protocol](./protocol-tofu.md) — pairs with the curry-glaze variant

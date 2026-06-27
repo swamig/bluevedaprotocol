@@ -122,6 +122,7 @@ All optional — adds to either mode.
 
 - **As a downstream finish from [Sheet 37](./fermented-chili-garlic-paste.md) master paste** — primary use pattern. The master ferments once; sriracha is the most frequent finish off it.
 - In [Sesame Sauce Cubes](./sesame-sauce-cubes.md): sub 1 cube for the "1–2 tsp sriracha" line in the sesame sauce base.
+- In [Coconut Protein Cubes](./coconut-protein-cubes.md) Sriracha-Coconut variant: **3-4 cubes per single batch sub for the 2 tbsp red curry paste** — curry-paste-free path to a Thai-sweet-chili-coconut sauce · upgrade to Tier 2 with lemongrass paste + build-your-own spice base for closer-to-curry.
 - In [Tofu](./protocol-tofu.md) flash sear: drop 1 cube into the pan at step 5 — melts into the glaze.
 - In [Recovery Bowl](./recovery-bowl.md): **skip** — the bowl is sweet/fermented/savory, not spicy.
 - In [Jaljeera](./peppermint-jaljeera.md): not needed — fresh Thai chili goes directly in the muddle.
