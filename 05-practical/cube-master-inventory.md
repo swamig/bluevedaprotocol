@@ -52,6 +52,15 @@ Single navigation reference for every freezer cube in the BlueVeda system. Lists
 | Lemon juice | 3 months | ~1 tbsp (mini) | [freeze-system.md](./freeze-system.md) |
 | Black bean liquid (anthocyanin reserve) | 3 months | ~2 tbsp (regular) | [protocol-blackbeans.md](./protocol-blackbeans.md) |
 | **Concentrated paneer whey** | **3 months** | ~1 tbsp (mini) | [paneer-high-protein.md](./paneer-high-protein.md) |
+| **Whey kvass** (24-hr lacto-ferment of reduced whey) | **3 months** | ~1 tbsp (mini) | [protein-methi-thepla.md](./protein-methi-thepla.md) |
+
+### Fermentation Bases (Round 7 · upstream pastes that feed multiple finishes)
+
+| Base | Fridge Life | Freeze Life | Form | Recipe |
+|---|---|---|---|---|
+| **Fermented Chili-Garlic Master Paste** (1-week lacto-ferment) | **6 months** (fridge) | 6 months as Sriracha cube · 4 months as Combo cube · 3 months as Stir-Fry Pulse cube | Glass jar in fridge; portion to ice trays at finish step | [fermented-chili-garlic-paste.md](./fermented-chili-garlic-paste.md) |
+| **Shio Koji** (rice koji + salt + water · 7–10 day) | **6 months** (fridge) | **3 months** as mini cube | Glass jar in fridge OR mini cube (~1 tbsp) | [koji-pretreatment.md](./koji-pretreatment.md) |
+| **Amazake** (sweet koji rice · 8–10 hr 60°C) | 1 week (fridge) | **3 months** as mini cube | Jar in fridge OR mini cube (~1 tbsp) | [koji-pretreatment.md](./koji-pretreatment.md) |
 
 ### Protein-Anchor Items (not cube-shaped but freezer-stable)
 
@@ -88,7 +97,10 @@ Cubes group naturally by chemistry — the table below maps ingredient categorie
 | Tadka, fenugreek, mint muddle | 4–6 weeks | Concentrated aromatics fade after ~1 month |
 | Plain bases, beans, quinoa, ginger paste, sauce concentrates | 3 months | Standard freezer life for low-water-activity items |
 | Combo cubes (multi-acid + reduction) | 4 months | Acid stack + concentration extends life |
+| Lacto-fermented bases (chili-garlic master paste, sriracha Mode A) | **6 months** | Lactic acid + salt push preservation to half-year |
 | Imli-Khajur, sriracha (high acid + sugar) | 6 months | Acid + sugar preservation push to half-year |
+
+> **Round 7 doctrine — pre-ferment, then freeze.** Fermentation runs *upstream* of the freeze; the cube delivers post-biotic metabolites (organic acids, free amino acids, bioactive peptides, B-vitamins, ergothioneine) — not live cultures (which mostly die at −18°C). The live-culture probiotic layer lives in the refrigerated daily stack (yogurt, aambali, kraut, kimchi). See [freeze-system.md §Pre-Ferment, Then Freeze](./freeze-system.md) for the full doctrine.
 
 See [Sauce Cubing Master Guide §6 — The Freeze Stability Ladder](./sauce-cubing-master-guide.md) for the chemistry behind each tier.
 
@@ -130,12 +142,17 @@ The protocol uses two tray cell sizes — pick by volume.
 - [Tamarind Chutney](./tamarind-chutney.md) — Imli-Khajur 6-month cubes
 - [Sesame Sauce Cubes](./sesame-sauce-cubes.md) — soy-glaze sauce concentrate
 - [Vegetarian Oyster Sauce](./oyster-sauce-vegetarian.md) — shiitake reduction concentrate
-- [Homemade Sriracha](./sriracha-homemade.md) — fermented or quick heat layer
+- [Homemade Sriracha](./sriracha-homemade.md) — Mode A (default · finish from master paste) + Mode B fallback
 - [Veg Oyster + Sriracha Combo](./veg-oyster-sriracha-combo-cubes.md) — pre-combined heat + umami cube
 - [Creamy Coconut Protein Cubes](./coconut-protein-cubes.md) — curry glaze base (with Caribbean M/W/F variant)
 - [Pad Thai Peanut Cubes](./pad-thai-peanut-cubes.md) — peanut-tamarind concentrate
 - [Topical Protocols](./topical-protocols.md) — fenugreek + aloe cubes for hair/skin
 - [Black Beans Protocol](./protocol-blackbeans.md) — black bean liquid anthocyanin cubes
+
+**Fermentation bases (Round 7):**
+
+- [Fermented Chili-Garlic Master Paste](./fermented-chili-garlic-paste.md) — 1-week lacto-ferment · feeds Sriracha + Combo + Stir-Fry Pulse finishes
+- [Koji Pretreatment](./koji-pretreatment.md) — shio koji + amazake · pretreats tofu/chickpea/black bean/paneer/patties for umami amplification + ergothioneine
 
 **Where the cubes get used:**
 

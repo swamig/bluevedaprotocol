@@ -38,6 +38,60 @@ Single reference for everything frozen in the protocol — format, shelf life, t
 
 ---
 
+## Pre-Ferment, Then Freeze — The Doctrine
+
+The cube system is built for **post-biotic** delivery — metabolites that survive freezing, not live cultures (which mostly die or go dormant at -18°C). This means fermentation has a specific job in the cube architecture: it runs **upstream** of the freeze, producing compounds that DO survive the cold chain. The live-culture probiotic layer happens elsewhere in the day (yogurt, aambali, kimchi, sauerkraut — all refrigerated, not frozen).
+
+### What Survives the Freeze
+
+| Compound | Source ferment | Why it survives |
+|---|---|---|
+| Lactic acid | Sriracha Mode A, kraut/kimchi brine, whey kvass | pH-stable below 0°C, no enzymatic dependency |
+| Free amino acids (glutamate, etc.) | Koji pretreatment, miso, soy/tamari | Amino acids are thermostable + freeze-stable |
+| Bioactive peptides | Koji, fermented dairy, fermented legumes | Short peptides (<10 aa) tolerate freeze well |
+| Bacteriocins (antimicrobial peptides) | LAB ferments | Peptide-class, freeze-stable |
+| B-vitamins (folate, B12, riboflavin) | LAB ferments, koji | Water-soluble vitamins are freeze-stable |
+| Organic acids (acetic, propionic, butyrate) | Vinegars, kombucha, kraut | Stable across temperature range |
+| Polyphenol aglycones (from glycosides) | Fermentation hydrolysis | Aglycones MORE bioavailable than parent glycosides; survive freeze |
+| Ergothioneine | Koji-cultured grains/legumes | Sulfur amino acid antioxidant, thermostable |
+| Phytate degradation (already done) | Sourdough, koji, fermented legumes | Once degraded, stays degraded |
+| Allicin precursors (alliin) | Whole garlic in fermented paste (uncrushed during cube formation) | Alliin survives freeze; activates on day-of crush |
+
+### What DOES NOT Survive
+
+| Live thing | Why it doesn't survive freeze (or survives badly) |
+|---|---|
+| LAB live cells | Cell wall ruptures from ice crystals, ~50–90% die; survivors go dormant. Cubes deliver the metabolites these cells made, not the cells themselves. |
+| Aspergillus oryzae (koji) live cells | Same as LAB — viability drops sharply. Enzymes (proteases/amylases) already did their job upstream. |
+| Yeast (Brettanomyces, Saccharomyces) | Mostly killed |
+| Allicin (already-formed) | Survives short freeze (~weeks) but degrades over months; for full activity, crush garlic day-of (the existing protocol rule) |
+| Volatile aromatics (mint terpenes, citrus oils) | Sublimate over months; this is why mint muddle is 4–6 weeks not 3 months |
+| Vitamin C | Degrades in freezer over months (~30% loss at 3 months); add lemon juice fresh day-of for the iron-absorption stack |
+
+### The Doctrine
+
+1. **Run the ferment BEFORE the freeze, not after.** The whole point is to deposit fermentation metabolites into the cube. Once frozen, you're done — defrosting will not "wake the culture back up" in a useful way.
+2. **Refrigerated probiotic layer stays separate.** Yogurt, aambali, kraut, kimchi belong in the *daily fridge layer* — these deliver live cultures. The cube delivers post-biotics. Both layers complement each other; neither replaces the other.
+3. **Allow ferment to ripen fully before cubing.** Half-ferments produce half the compounds. Sriracha Mode A needs the full 5–7 days; koji shio paste needs the full 7–10 days; whey kvass needs the full 24 hr. Premature cubing locks in flat flavor + lower compound density.
+
+### Where This Doctrine Has Been Applied (Round 7)
+
+- **Sheet 23 (Sriracha):** Mode A (fermented) is now default; Mode B (quick) is the no-time fallback
+- **Sheet 36 (Koji Pretreatment):** new sheet — shio koji + amazake for tofu/chickpea/black bean/paneer pretreatment
+- **Sheet 37 (Fermented Chili-Garlic Master Paste):** new sheet — single 1-week ferment, three downstream finishes
+- **Sheet 33 (Protein Methi Thepla):** optional 24 hr whey kvass ferment before dough mix
+
+### Where the Doctrine Could Still Extend (Planned)
+
+- Lacto-fermented black bean liquid (douchi-style, before reducing to cube) for higher anthocyanin bioavailability
+- Koji-cultured chickpea base for higher-umami patties
+- Wild ferment of mint stems (kvass-style) for a stronger mint muddle base
+- Tepache-style fermented fruit-water bases for spa waters
+
+See [Koji Pretreatment](./koji-pretreatment.md), [Fermented Chili-Garlic Master Paste](./fermented-chili-garlic-paste.md), and [Sriracha](./sriracha-homemade.md) for the operationalized recipes.
+
+---
+
 ## Thaw + Finish Guide
 
 ### Patties

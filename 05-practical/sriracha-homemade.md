@@ -7,11 +7,13 @@ priority: 'supporting'
 
 # Homemade Sriracha
 
-Two cube-able modes for the protocol's primary heat layer. **Fermented** = deeper, restaurant-style, 5–7 days of patience. **Quick** = same day, two-week fridge life. Both cube cleanly. The pH (~3.5) and salt do the preservation work — no added sugar needed if you use the date-paste swap.
+**Mode A (fermented) is the default protocol-aligned execution** — deeper, restaurant-style, finished from a ripe master paste. **Mode B (quick)** is the no-time fallback when there's no master paste in the fridge and no 5-day window to start one. The 5–7 day ferment step itself now lives upstream in [Sheet 37 — Fermented Chili-Garlic Master Paste](./fermented-chili-garlic-paste.md); sriracha is the most common downstream finish from that master, so this sheet now reads as the **finish recipe + the fallback**. The pH (~3.5) and salt do the preservation work — no added sugar needed if you use the date-paste swap.
 
 Drops directly into [Sesame Sauce Cubes](./sesame-sauce-cubes.md) as a 1:1 swap for the commercial sriracha line, and into [Sheet 07 tofu](./protocol-tofu.md) flash sear as the heat layer.
 
 ## Base Ingredients (single batch · ~1.5 cups · ~24 mini cubes)
+
+These are the ingredients for the single-batch **Mode B fallback**. For **Mode A**, the chili + garlic + salt portion now lives in [Sheet 37](./fermented-chili-garlic-paste.md); vinegar + date paste are added at the finish step.
 
 | Ingredient | Amount | Notes |
 |---|---|---|
@@ -22,18 +24,18 @@ Drops directly into [Sesame Sauce Cubes](./sesame-sauce-cubes.md) as a 1:1 swap 
 | Date paste | 2 Medjool dates blended | Or 2 tbsp brown sugar · added AFTER ferment |
 | Distilled white vinegar | ½ cup | 5% acetic acid · added AFTER ferment |
 
-## Mode A — Fermented (5–7 days · deeper, complex, restaurant-style)
+## Mode A — Fermented (Default · Use Sheet 37 Master Paste)
 
-1. **Blend coarse.** Peppers + Thai chili + garlic + salt to a coarse paste — ~10 sec pulse, **not** smooth.
-2. **Pack.** Press the paste into a clean glass jar. Brine should rise above the solids. Leave 1″ headspace.
-3. **Weight.** Weight the solids under the brine (a small jar-of-water or fermentation weight) — **exposed pepper goes moldy**.
-4. **Ferment.** Cover loosely with cheesecloth or an airlock lid. **Ferment at room temp 5–7 days.** Burp daily if using a tight lid (CO₂ builds).
-5. **Check.** Day 5–7: surface should bubble when stirred; aroma is funky-fruity, not vinegary-yet. Refrigerate to halt the ferment.
-6. **Blend.** Transfer to blender. Add vinegar + date paste. Blend smooth.
-7. **Strain (optional).** Strain through fine mesh for the classic smooth bottle texture · OR skip strain for rustic.
-8. **Bottle or cube.** Squeeze bottle (fridge, 6 months) OR ice tray (freezer, 6 months).
+The protocol-aligned finish. Assumes you have a ripe master paste from [Sheet 37](./fermented-chili-garlic-paste.md) in the fridge — the 5–7 day ferment is done upstream, not here.
 
-## Mode B — Quick (no-ferment · ~30 min · 2-week fridge / 6-month freeze)
+1. **Pull** 1 cup ripe master paste from [Sheet 37](./fermented-chili-garlic-paste.md) from the fridge.
+2. **Blend.** Add to blender with **½ cup distilled white vinegar + 2 Medjool dates (blended)** per 1 cup master paste.
+3. **Strain (optional).** Blend smooth, then strain through fine mesh for the classic squeeze-bottle texture · OR skip for rustic.
+4. **Bottle or cube.** Squeeze bottle (fridge, 6 months) OR mini ice tray (freezer, 6 months).
+
+## Mode B — Quick (No-Time Fallback · Same Day)
+
+Use only when you don't have a master paste fermenting or have no time for the 5-day wait. ~30 min · 2-week fridge / 6-month freeze.
 
 1. **Blend smooth.** Peppers + Thai chili + garlic + salt + vinegar + date paste to a smooth paste.
 2. **Simmer.** Pour into a saucepan. **Simmer 5 min** on medium — peppers soften, raw bite drops.
@@ -54,15 +56,15 @@ All optional — adds to either mode.
 | TRPA1 | Black mustard seeds, toasted & ground | 1 tsp | Layer of TRPA1 activation alongside the capsaicin TRPV1 |
 | Numbing | Sichuan peppercorn, toasted & ground | ½ tsp | Adds mala numbing — pairs naturally with hot-and-sour |
 | Piperine | Black pepper, cracked | ½ tsp | Absorption multiplier for the meal |
-| **Lacto-boost (Mode A only)** | 1 tbsp brine from a previous successful ferment (sauerkraut, kimchi) | 1 tbsp | Inoculates the ferment with proven LAB cultures — speeds + stabilises Day 1–3 |
 | Star-anise note | Star anise (whole) | 1 point | Add to the simmer in Mode B · adds a faint anethole bridge |
+
+**Lacto-boost for Mode A** — moved upstream. The brine-inoculation step now lives in [Sheet 37 (Fermented Chili-Garlic Master Paste)](./fermented-chili-garlic-paste.md), since it acts on the ferment itself, not the finish.
 
 ## Critical Rules
 
-- **Salt at 3.5% by weight of peppers — non-negotiable for the ferment.** Too little salt = the wrong microbes win and you'll see fuzzy white/blue mold (not the harmless surface yeast). When in doubt, weigh the peppers and multiply by 0.035.
-- **Don't seed the peppers.** Seeds and pith carry most of the capsaicin. Seeding cuts heat by ~70% and removes the bio-signaling target. If you find Fresno + Thai too hot, drop the Thai before deseeding the Fresno.
-- **Burp the jar daily** in Mode A. CO₂ build-up will crack a tight-lid jar by day 3 if you don't release it.
-- **Surface yeast is fine; fuzzy mold is not.** White film on day 4–5 brine = kahm yeast, skim and continue. Blue, green, black, or fuzzy patches = mold, start over.
+- **Don't seed the peppers.** Seeds and pith carry most of the capsaicin. Seeding cuts heat by ~70% and removes the bio-signaling target. Applies to Mode B here and to the master paste in Sheet 37. If you find Fresno + Thai too hot, drop the Thai before deseeding the Fresno.
+- **For Mode A, the master paste must be ripe (full sour ferment, 5–7 days)** — undersour paste yields a flat sriracha. If unsure, taste — finished paste should taste like a sour pickled chili-garlic relish, not raw chili.
+- See [Sheet 37 (Fermented Chili-Garlic Master Paste)](./fermented-chili-garlic-paste.md) for the ferment-specific rules (salt %, burping, surface yeast vs mold).
 
 ## Cube Math
 
@@ -76,6 +78,7 @@ All optional — adds to either mode.
 
 ## Use Pattern
 
+- **As a downstream finish from [Sheet 37](./fermented-chili-garlic-paste.md) master paste** — primary use pattern. The master ferments once; sriracha is the most frequent finish off it.
 - In [Sesame Sauce Cubes](./sesame-sauce-cubes.md): sub 1 cube for the "1–2 tsp sriracha" line in the sesame sauce base.
 - In [Tofu](./protocol-tofu.md) flash sear: drop 1 cube into the pan at step 5 — melts into the glaze.
 - In [Recovery Bowl](./recovery-bowl.md): **skip** — the bowl is sweet/fermented/savory, not spicy.
@@ -85,4 +88,13 @@ All optional — adds to either mode.
 
 Commercial sriracha (Huy Fong / Flying Goose / Lee Kum Kee) typically contains: red chili, distilled vinegar, garlic, sugar, salt, **potassium sorbate**, **sodium bisulfite**, **xanthan gum**. The homemade version replaces all preservatives with the actual preservation chemistry (pH + salt + cold storage), and trades refined sugar for whole-fruit date paste at zero loss of sweetness perception.
 
-Mode A also delivers the bonus signal of live LAB cultures (until heated) — pairs with the daily probiotic anchors (kimchi, sauerkraut on the salad layer).
+Mode A inherits live LAB cultures from the [Sheet 37](./fermented-chili-garlic-paste.md) master paste (until heated) — the master paste carries the cultures, the sriracha finish delivers them. Daily probiotic anchors (kimchi, sauerkraut on the salad layer) still complement the cube delivery — the sriracha pulse is small per meal, not a substitute for an anchor.
+
+## Related Pages
+
+- [Fermented Chili-Garlic Master Paste](./fermented-chili-garlic-paste.md) — Sheet 37 · upstream of Mode A
+- [Sesame Sauce Cubes](./sesame-sauce-cubes.md)
+- [Tofu Protocol](./protocol-tofu.md)
+- [Veg Oyster + Sriracha Combo Cubes](./veg-oyster-sriracha-combo-cubes.md)
+- [Freeze System](./freeze-system.md)
+- [Cube Master Inventory](./cube-master-inventory.md)
