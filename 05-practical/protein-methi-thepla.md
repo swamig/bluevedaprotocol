@@ -97,6 +97,23 @@ Made in ghee per the [technique above](#the-bloomed-spice-tadka-technique-5-min)
 | Garam masala | 1 tsp |
 | Hing | pinch |
 
+### Optional Round 7 Upgrade — Whey Kvass Ferment (24 hr)
+
+The protocol's Round 7 fermentation upgrade. Lacto-ferments the reduced whey for 24 hours before mixing into the dough. Yields a peptide-rich, low-lactose, organic-acid-enriched liquid that survives cooking + lasts longer in the fridge (kvass culture inhibits spoilage). Pairs naturally with methi's slight bitterness.
+
+| Step | Detail |
+|---|---|
+| **Reduce** | 1½ cup raw whey → ¾ cup concentrated (existing step — see [paneer-high-protein.md](./paneer-high-protein.md#how-to-concentrate-whey-25-min)) |
+| **Cool** | Concentrated whey cooled to body temp (~37 °C / lukewarm) — LAB die above 45 °C |
+| **Inoculate** | 1 tbsp culture starter · any of: 1 tbsp live yogurt whey · 1 tbsp [aambali batter](./protocol-aambali.md) · 1 tbsp kraut brine · ½ tsp dried yogurt starter culture |
+| **Ferment** | 24 hr at room temp in covered jar · stir once at hour 12 · tastes mildly tangy (like buttermilk) when done · refrigerate if not used within 24 hr |
+
+**Storage:** fermented whey kvass keeps **5–7 days fridge** vs. 3 days for un-fermented reduced whey.
+
+> **Don't ferment beyond 36 hr** — the dough rises unpredictably and texture suffers.
+
+Companion Round 7 ferments: [fermented chili-garlic paste](./fermented-chili-garlic-paste.md) · [koji pretreatment](./koji-pretreatment.md) · [pre-ferment-then-freeze](./freeze-system.md).
+
 ### Liquid Stack (75/25 — canonical)
 
 | Item | Amount |
@@ -123,6 +140,9 @@ Made in ghee per the [technique above](#the-bloomed-spice-tadka-technique-5-min)
 4. Add chopped methi + cilantro + roasted garlic paste + fresh ginger + minced chilies.
 5. **Pour in the cooled tadka** · mix to combine — color becomes a uniform pale gold across the bowl.
 6. Add the Greek yogurt.
+
+> **Round 7 default:** swap the ¾ cup concentrated whey for ¾ cup whey kvass from above. The dough hydrates the same way; the cooked thepla has a slight buttermilk-tang depth and ferments-out residual lactose.
+
 7. **Gradually add concentrated whey** until the dough is soft and slightly tacky (start with ½ cup, add more as needed — **durum is thirsty**).
 8. Knead 5–7 min · **rest 45–60 min** covered with a damp towel (durum + psyllium both need full hydration · skipping this step = cracked rolls).
 9. Divide into 9 equal balls (~70 g each).
