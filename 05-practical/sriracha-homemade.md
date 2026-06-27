@@ -29,9 +29,51 @@ These are the ingredients for the single-batch **Mode B fallback**. For **Mode A
 The protocol-aligned finish. Assumes you have a ripe master paste from [Sheet 37](./fermented-chili-garlic-paste.md) in the fridge — the 5–7 day ferment is done upstream, not here.
 
 1. **Pull** 1 cup ripe master paste from [Sheet 37](./fermented-chili-garlic-paste.md) from the fridge.
-2. **Blend.** Add to blender with **½ cup distilled white vinegar + 2 Medjool dates (blended)** per 1 cup master paste.
+2. **Blend.** Add to blender with **½ cup distilled white vinegar + 2 Medjool dates (blended)** per 1 cup master paste. **Honey swap:** drop the dates entirely · use **2 tbsp honey** per 1 cup master paste (skip the warm-water pre-blend step · honey is already liquid).
 3. **Strain (optional).** Blend smooth, then strain through fine mesh for the classic squeeze-bottle texture · OR skip for rustic.
 4. **Bottle or cube.** Squeeze bottle (fridge, 6 months) OR mini ice tray (freezer, 6 months).
+
+### Mode A · Vitamix Scale (Path A · 1 Vitamix worth · ~96 mini cubes)
+
+When you want to convert a big chunk of ripe master paste into Sriracha in one blender run. Fills the Vitamix to ~6 cups, blends in 30-45 sec.
+
+| Ingredient | Amount |
+|---|---|
+| Ripe master paste from [Sheet 37](./fermented-chili-garlic-paste.md) | 4 cups |
+| Distilled white vinegar (5% acetic) | 2 cups |
+| Medjool dates (pre-blend with ¼ cup warm water) | 8 dates · **OR ⅓ cup honey** (skip pre-blend) |
+
+**Bio-signal stack at 4× scale** (whisk in before blending):
+
+| Add | Amount |
+|---|---|
+| Smoked paprika | 4 tsp |
+| Black garlic powder | 4 tsp |
+| Black mustard seeds, dry-toasted + ground | 4 tsp |
+| Sichuan peppercorn, toasted + ground | 2 tsp |
+| Black pepper, cracked | 2 tsp |
+
+**Method:**
+
+1. Toast + grind mustard seeds (60-90 sec dry skillet · medium heat · until popping) and Sichuan peppercorn (30-45 sec). Cool · grind in spice mill or mortar.
+2. Pre-blend dates with warm water in a small bowl until smooth (skip if using honey).
+3. Use a **clean spoon** to pull 4 cups ripe master paste into the Vitamix.
+4. Add vinegar + date paste (or honey) + the bio-signal stack on top.
+5. Lid on. Start on Low, ramp to High over 10 sec. Blend on High **30-45 sec** — push down with tamper if paste forms air pocket around blade.
+6. Optional strain through fine mesh for squeeze-bottle texture · skip for rustic.
+7. Split your output:
+   - All bottles: 4 × 12-oz squeeze bottles (fridge 6 mo)
+   - All cubes: ~96 mini cubes / 4 trays (freezer 6 mo)
+   - Recommended split: 2 bottles + ~48 cubes
+8. Label `Sriracha · [date] · use by [date + 6 mo]`.
+
+**Vitamix watchouts:**
+
+- Don't over-blend past 60 sec on High — friction heats the paste, degrades some lacto-acid post-biotics from the ferment. 30-45 sec is the sweet spot.
+- Pre-blend the dates with water — whole dates leave fibrous skin chunks in the final paste.
+- Clean spoon for every master paste pull — non-negotiable for the 6-month fridge life of the master.
+
+For the chili sourcing (fresh vs dried), bug + mold inspection, freeze-on-arrival rule, and rehydration method, see [Sheet 38 — Red Chili Management](./red-chili-management.md).
 
 ## Mode B — Quick (No-Time Fallback · Same Day)
 
@@ -93,6 +135,7 @@ Mode A inherits live LAB cultures from the [Sheet 37](./fermented-chili-garlic-p
 ## Related Pages
 
 - [Fermented Chili-Garlic Master Paste](./fermented-chili-garlic-paste.md) — Sheet 37 · upstream of Mode A
+- [Red Chili Management](./red-chili-management.md) — Sheet 38 · sourcing, storage, bug/mold inspection, rehydration, dried-to-fresh conversions
 - [Sesame Sauce Cubes](./sesame-sauce-cubes.md)
 - [Tofu Protocol](./protocol-tofu.md)
 - [Veg Oyster + Sriracha Combo Cubes](./veg-oyster-sriracha-combo-cubes.md)

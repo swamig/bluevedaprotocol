@@ -35,6 +35,42 @@ Companion to the [Sesame Tofu Glaze](#sesame-tofu-glaze) protocol below.
 
 Total volume: ~20 tbsp → ~20 mini cubes at 1 tbsp / cell.
 
+## 8× Vitamix Batch (~40 cubes · single blender run)
+
+When you want to make a bigger reserve in one go. Fills the Vitamix to ~3 cups; all bio-signals dissolve fully in 20-30 sec on High.
+
+| Ingredient | Per Vitamix batch |
+|---|---|
+| Soy sauce / tamari | 1 cup (16 tbsp) |
+| Oyster sauce (veg version) | ½ cup (8 tbsp) |
+| Rice vinegar | ½ cup (8 tbsp) |
+| **Sriracha** | **8-16 tsp (~⅛–⅓ cup) · or 8-16 mini cubes** |
+| Honey · OR 4 Medjool dates blended w/ 2 tbsp warm water | 8 tsp · OR 4 dates |
+
+**Bio-signal defaults at 8× scale** (whisk or Vitamix-pulse in):
+
+| Ingredient | Per 8× Vitamix batch |
+|---|---|
+| Black pepper, cracked | 1 tbsp + 1 tsp |
+| Turmeric, ground | 2 tsp |
+| Black mustard seeds, dry-toasted + ground | 1 tbsp + 1 tsp |
+| Sichuan peppercorn, toasted + ground | 1 tbsp + 1 tsp |
+| Black garlic powder | 2 tbsp + 2 tsp |
+
+**Method:**
+
+1. Toast + grind the mustard + Sichuan peppercorn (per defaults table above)
+2. Add all liquid ingredients to Vitamix · add all bio-signal spices on top
+3. Lid on. Pulse 3-4 times on Low to disperse the spices · then blend on High **20-30 sec** until smooth
+4. Pour into mini ice trays at ~1 tbsp per cell · should fill ~2 trays (~40 cells)
+5. Freeze overnight uncovered · transfer to a labeled bag
+
+## Two-Vitamix Batch (~80 cubes · 2 runs · monthly supply)
+
+Run the 8× Vitamix batch twice back-to-back · yields ~80 mini cubes — roughly 6 weeks at one cube per tofu meal. Splits cleanly to ~4 mini ice trays. Use this when batch-prepping for a household or doing a full Costco-style sauce reserve.
+
+For the Sriracha line at 2-Vitamix scale: **16-32 mini Sriracha cubes** (~⅓-⅔ cup bottled) · split ~12 cubes per Vitamix.
+
 ## Recommended Bio-Signal Defaults
 
 **These ship in the cube by default** — whisked into the base sauce before freezing. The protocol assumes you're stacking them; the "Further Bio-Signal Variants" section below is for *additional* signals on top of these.
