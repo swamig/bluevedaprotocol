@@ -34,6 +34,7 @@ Single navigation reference for every freezer cube in the BlueVeda system. Lists
 | Veg Oyster + Sriracha Combo | **4 months** | ~1 tbsp (mini) | [veg-oyster-sriracha-combo-cubes.md](./veg-oyster-sriracha-combo-cubes.md) |
 | Creamy Coconut Protein | 3 months | ~1 tbsp (mini) | [coconut-protein-cubes.md](./coconut-protein-cubes.md) |
 | Pad Thai Peanut | 3 months | ~1 tbsp (mini) | [pad-thai-peanut-cubes.md](./pad-thai-peanut-cubes.md) |
+| **Bhuna Masala (North Indian foundation)** | **3 months** | ~1 tbsp (mini) | [bhuna-masala-cube.md](./bhuna-masala-cube.md) |
 
 ### Tadka / Spice Pulse Cubes
 
@@ -157,6 +158,8 @@ The protocol uses two tray cell sizes — pick by volume.
 **Sourcing + handling references:**
 
 - [Red Chili Management](./red-chili-management.md) — Sheet 38 · sourcing fresh + dried red chilies · bug + mold inspection · freeze-on-arrival rule · rehydration method · dried-to-fresh conversion math for the master paste
+- [Kadhi Reference](./kadhi-reference.md) — Sheet 40 · Marwari + Punjabi + Gujarati variants (make-fresh, not cubed — uses curry-leaf tadka + ginger + rested garlic cubes as support)
+- [Bhuna Masala Cube](./bhuna-masala-cube.md) — Sheet 39 · the North Indian masala foundation (registered above in Sauce Concentrates)
 
 **Where the cubes get used:**
 
