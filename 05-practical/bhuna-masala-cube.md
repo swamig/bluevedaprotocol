@@ -45,14 +45,16 @@ Follows the design principles in the [Sauce Cubing Master Guide](./sauce-cubing-
 
 ## Method (~35 min · the bhuna is the slow part, don't rush it)
 
-1. **Bloom the cumin seeds** in the oil/ghee on medium-low for ~30 sec until they sputter.
-2. **Add onions + a pinch of salt** · sauté on medium · stirring every 2-3 min · until deep golden brown (~12-15 min) · do NOT rush this — color = flavor.
-3. **Add ginger + garlic** · stir 60 sec until raw smell disappears.
-4. **Add tomatoes** · cook on medium 8-10 min · stirring · tomatoes break down completely.
-5. **Add turmeric + cumin + coriander + Kashmiri chili + black pepper + asafoetida + black garlic powder** · stir constantly 2-3 min · spices bloom into the oil.
-6. **Lower heat to low · bhuna** · stir every 60 sec for 5-8 min until **oil separates from the mass and pools at the edges** (this is the visual cue — non-negotiable).
-7. **Off heat** · stir in garam masala + kasuri methi (crushed between palms first) + final salt.
-8. Cool fully before portioning.
+Each step restates its quantity so the procedure is self-contained — single-batch amount first, **(4× amount)** in bold after.
+
+1. **Bloom the cumin seeds.** Heat **3 tbsp (4× ¾ cup) oil/ghee** on medium · when it shimmers, add **1 tsp (4× 4 tsp) cumin seeds** · stir ~30 sec until they sputter and turn one shade darker.
+2. **Add onions + a pinch of salt.** Add **4 large finely-diced onions / ~4 cups (4× 16 onions / ~16 cups raw → ~5 cups after Vitamix pulse)** · sauté on medium · stirring every 2-3 min · until deep golden brown (~12-15 min single · ~20 min at 4×) · do NOT rush this — color = flavor. Onions lose ~⅔ of their volume cooking down — 4 cups raw → ~1⅓ cups browned.
+3. **Add ginger + garlic.** Add **2 tbsp minced ginger + 2 tbsp minced garlic / ~6 cloves (4× ½ cup ginger + ½ cup garlic / ~3 heads)** · stir 60 sec until the raw smell disappears.
+4. **Add tomatoes.** Add **1 × 28-oz can crushed tomato / ~3 cups (4× four 28-oz cans / ~12 cups)** · cook on medium 8-10 min · stirring · tomatoes break down completely and oil starts surfacing.
+5. **Bloom the ground spices.** Add **all at once:** turmeric **2 tsp (4× 2 tbsp+2 tsp)** · ground cumin **2 tsp (4× 2 tbsp+2 tsp)** · ground coriander **2 tbsp (4× ½ cup)** · Kashmiri chili **2 tsp (4× 2 tbsp+2 tsp)** · black pepper **1 tsp (4× 4 tsp)** · asafoetida **¼ tsp (4× 1 tsp)** · black garlic powder **1 tsp (4× 4 tsp)** · stir constantly 2-3 min on medium · spices bloom into the oil.
+6. **Lower heat to low · bhuna.** Stir every 60 sec for 5-8 min single (~10-12 min at 4×) until **oil separates from the mass and pools at the edges** (this is the visual cue — non-negotiable).
+7. **Off heat.** Stir in garam masala **1 tsp (4× 4 tsp)** + kasuri methi **1 tbsp (4× ¼ cup)** crushed between palms first + final salt **1 tsp (4× 4 tsp)** · adjust salt to taste.
+8. Cool fully before portioning (~30 min · spread on a wide sheet to speed it).
 9. Pour ~1 tbsp per cell into mini ice cube tray · freeze overnight uncovered · transfer to labeled bag.
 10. Label: `Bhuna Masala · [date] · use by [date + 3 months]`.
 
