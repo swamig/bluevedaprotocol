@@ -86,6 +86,7 @@ Upstream lacto-ferments + koji pretreatments that feed multiple downstream cubes
 
 - [Red Chili Management (Sheet 38)](red-chili-management.md) — sourcing fresh + dried red chilies · bug + mold inspection · freezer-temp reality + verification · rehydration · dried-to-fresh conversions
 - [Kadhi Reference (Sheet 40)](kadhi-reference.md) — Marwari · Punjabi · Gujarati variants (make-fresh doctrine · why kadhi doesn't cube)
+- [Spice Blend Master Reference (Sheet 41)](spice-blend-reference.md) — garam masala (from-scratch + quick + regional dialing) + chaat masala (where amchur lives) · self-contained step format
 - [Substitutions Guide](substitutions-guide.md)
 - [Cost Estimate](cost-estimate.md)
 - [Equipment](equipment.md)

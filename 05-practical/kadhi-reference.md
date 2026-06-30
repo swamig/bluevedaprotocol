@@ -202,3 +202,4 @@ Despite resisting cubing, kadhi delivers:
 - [Protein Methi Thepla](./protein-methi-thepla.md) — pairs with Gujarati kadhi
 - [Paneer High Protein](./paneer-high-protein.md) — sibling dairy protein recipe
 - [Cube Master Inventory](./cube-master-inventory.md) — registers kadhi as a "supported by cubes but not itself a cube" entry
+- [Spice Blend Master Reference](./spice-blend-reference.md) — Sheet 41 · garam masala + chaat masala (the tadka spices for each kadhi variant)
