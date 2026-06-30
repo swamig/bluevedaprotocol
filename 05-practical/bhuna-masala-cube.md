@@ -29,7 +29,7 @@ Follows the design principles in the [Sauce Cubing Master Guide](./sauce-cubing-
 | Ground cumin | 2 tsp | Adds to the bloomed seeds |
 | Ground coriander | 2 tbsp | The volume backbone of any North Indian masala |
 | Kashmiri chili powder | 2 tsp | Color + mild heat · see [Sheet 38](./red-chili-management.md) for sourcing |
-| Garam masala | 1 tsp | At end · don't bloom (volatiles burn) |
+| Garam masala | 1 tsp | At end · don't bloom (volatiles burn) · see [Sheet 41](./spice-blend-reference.md) for the from-scratch blend |
 | Kasuri methi (dried fenugreek leaves) | 1 tbsp · crushed between palms | Earthy "restaurant-style" note · added off-heat |
 | Salt | 1 tsp | Adjust after the reduce |
 
@@ -164,3 +164,4 @@ Same 3-month freezer stack as the coconut cube · tomato acid + salt + reduction
 - [Protein Methi Thepla](./protein-methi-thepla.md) — pairs with paneer bhurji
 - [Paneer High Protein](./paneer-high-protein.md) — homemade paneer for the bhurji
 - [Kadhi Reference](./kadhi-reference.md) — companion North Indian reference (kadhi doesn't cube but uses many of the same support cubes)
+- [Spice Blend Master Reference](./spice-blend-reference.md) — Sheet 41 · the from-scratch garam masala this cube calls for (+ chaat masala / amchur)

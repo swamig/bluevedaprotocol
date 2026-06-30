@@ -160,6 +160,7 @@ The protocol uses two tray cell sizes — pick by volume.
 - [Red Chili Management](./red-chili-management.md) — Sheet 38 · sourcing fresh + dried red chilies · bug + mold inspection · freeze-on-arrival rule · rehydration method · dried-to-fresh conversion math for the master paste
 - [Kadhi Reference](./kadhi-reference.md) — Sheet 40 · Marwari + Punjabi + Gujarati variants (make-fresh, not cubed — uses curry-leaf tadka + ginger + rested garlic cubes as support)
 - [Bhuna Masala Cube](./bhuna-masala-cube.md) — Sheet 39 · the North Indian masala foundation (registered above in Sauce Concentrates)
+- [Spice Blend Master Reference](./spice-blend-reference.md) — Sheet 41 · garam masala (from-scratch + quick + regional) + chaat masala (amchur's home) · self-contained step format
 
 **Where the cubes get used:**
 
