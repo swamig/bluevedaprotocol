@@ -20,7 +20,7 @@ Companion to [Bhuna Masala Cube (Sheet 39)](./bhuna-masala-cube.md), [Kadhi Refe
 | **Garam masala** | Warm + aromatic finish | OFF-HEAT at the end (volatiles burn above ~200°F) | Cinnamon · clove · cardamom · cumin · coriander · pepper |
 | **Chaat masala** | Sour + bright + savory finish | At the end, like a dry lemon | **Amchur** (dried mango) · black salt · cumin |
 
-**They are not interchangeable.** Garam masala adds warmth and depth; chaat masala adds tang and a sulfurous savory punch. Amchur belongs in chaat masala — **never in garam masala**, where its sourness would muddy every dish you finish with the blend.
+**They do opposite jobs.** Garam masala adds warmth and depth; chaat masala adds tang and a sulfurous savory punch. Amchur is the defining ingredient of chaat masala. It is **traditionally not** in classic garam masala — but some regional and family blends (Sindhi, some Punjabi households) carry a small amount of amchur for a tart edge. The protocol's house garam masala includes it as an **optional souring note** (see §1 and the §3 note) — keep it light so it lifts the blend without dominating the warm aromatics.
 
 ---
 
@@ -44,8 +44,9 @@ The full canonical blend. Toast whole, grind fresh — it beats any jar by a wid
 3. **Cool.** Tip onto a plate · cool **5 min completely**. Grinding warm spices makes a paste, not a powder.
 4. **Crack the cardamom.** Split the green **(2 tbsp)** + black **(3 pods)** cardamom · discard the husks · keep only the seeds.
 5. **Grind.** Add all toasted spices + cardamom seeds to a spice grinder. Grate in fresh nutmeg **½ whole nut** + add mace **1 tsp (optional)**. Grind in 20-30 sec bursts until fine.
-6. **Sift (optional).** Sift for ultra-fine powder · re-grind the coarse bits left in the sieve.
-7. **Store.** Airtight glass jar · label with the date · cool dark cupboard · **6-month peak**.
+6. **Stir in amchur (souring note · optional).** After grinding, whisk in amchur (dried mango powder) **2 tsp per ½ cup blend** for the Sindhi/family-style tart edge. **Do NOT grind amchur with the hot spices** — it clumps and gums the grinder; stir it in dry, off the heat. Skip this for a classic warm-only blend. See the §3 note on keeping it light.
+7. **Sift (optional).** Sift for ultra-fine powder · re-grind the coarse bits left in the sieve.
+8. **Store.** Airtight glass jar · label with the date · cool dark cupboard · **6-month peak** (slightly shorter with amchur in — it's hygroscopic; add a few rice grains to the jar).
 
 ### Quick version (pre-ground · 5 min · no whole spices)
 
@@ -60,8 +61,9 @@ Lower aroma but serviceable. **Don't toast pre-ground spices** — they scorch i
 | Ground cinnamon | 1 tbsp |
 | Ground cloves | 1 tsp |
 | Ground nutmeg | 1 tsp |
+| Amchur (dried mango powder) · **optional souring note** | 1 tsp |
 
-Keeps ~3 months before the aroma fades (vs 6 for the toasted whole-spice version).
+Keeps ~3 months before the aroma fades (vs 6 for the toasted whole-spice version). The amchur row is optional — include it for the Sindhi/family-style tart edge, skip it for a classic warm-only blend.
 
 ### DIY from whatever singles you have (fallback ladder)
 
@@ -139,14 +141,14 @@ If a recipe just wants tang, use **amchur straight** — ¼-½ tsp at the end of
 
 ---
 
-## 3. Why Amchur Is Not in Garam Masala
+## 3. Amchur in Garam Masala — Keep It Light
 
-The single most common spice-blend mistake. The reasoning, once, so it's settled:
+Classic garam masala is a pure warming aromatic blend, and amchur is the defining ingredient of *chaat* masala — so by tradition the two stay separate. But amchur in garam masala is a real regional move (Sindhi blends, some Punjabi households), and the protocol's house garam masala carries it as an **optional souring note**. The rules for doing it well:
 
-- **Garam masala is a warming aromatic blend.** Its job is depth + warmth + fragrance. Every ingredient is a warm aromatic (cinnamon, clove, cardamom) or an earthy base (cumin, coriander, pepper).
-- **Amchur is a souring agent.** Its only job is tart acidity. It has no aromatic warmth to contribute.
-- **Mixed into garam masala, amchur muddies the blend** — you'd taste a faint sourness in *everything* you finish with it, including dishes that want pure warmth (most curries, dals, the bhuna base). It also shortens shelf life (amchur is hygroscopic and clumps).
-- **Keep them as separate jars.** Warm + aromatic in one (garam masala, off-heat at the end). Sour + bright in another (chaat masala / straight amchur, as a finishing tang where the dish wants acid).
+- **Keep it light — ~2 tsp per ½ cup blend, max.** Garam masala's job is warmth + depth; amchur is there to *lift*, not to take over. Too much and you'll taste sourness in *everything* you finish with the jar, including dishes that want pure warmth (most curries, dals, the bhuna base).
+- **Stir it in dry, never grind it with the hot spices.** Amchur is hygroscopic — ground with warm whole spices it clumps and gums the grinder. Add it after grinding, off the heat.
+- **It shortens shelf life slightly.** Amchur draws moisture; a garam masala carrying it keeps ~4-5 months vs 6 for the pure blend. Add a few rice grains to the jar as a humidity guard.
+- **When in doubt, keep two jars.** A pure warm garam masala + a separate chaat masala (or straight amchur) gives you the most control — you decide warmth vs tang per dish instead of baking the tang into everything. The optional amchur in the house blend is the convenience path for when you want both in one shake.
 
 ---
 
