@@ -35,6 +35,35 @@ Companion to the [Sesame Tofu Glaze](#sesame-tofu-glaze) protocol below.
 
 Total volume: ~20 tbsp → ~20 mini cubes at 1 tbsp / cell.
 
+## Miso-Shiitake Variant (No Oyster Sauce)
+
+If you do not have or prefer not to use commercial oyster sauce, you can replicate its thick viscosity and deep fermented umami by using **extra Tamari/Soy Sauce + Miso Paste + Shiitake Mushroom Powder + extra dates/honey**. 
+
+### Base Recipe (Single Batch · ~5 cubes)
+*   **Low-Sodium Soy Sauce / Tamari:** 3 tbsp (replaces liquid volume of oyster sauce)
+*   **Miso Paste (Red or White):** 1 tsp (provides thickness and fermented depth)
+*   **Shiitake Mushroom Powder:** ½ tsp (provides concentrated umami/glutamate signaling)
+*   **Rice Vinegar:** 1 tbsp
+*   **Sriracha:** 1–2 tsp (or 1 [Homemade Sriracha](./sriracha-homemade.md) cube)
+*   **Honey OR ½ Medjool date blended:** 1.5 tsp (balances the extra saltiness of the soy sauce)
+*   *Note:* Toasted sesame oil (1 tsp) and water (2 tbsp) are still held out of the cube.
+
+### Vitamix Batch (12x Scale · ~55-60 cubes)
+*This is the optimal volume for a smooth, high-speed Vitamix vortex. It completely liquefies the dates and emulsifies the miso/spices.*
+*   **Soy Sauce / Tamari:** 2¼ cups (36 tbsp)
+*   **Miso Paste:** ¼ cup (4 tbsp)
+*   **Shiitake Mushroom Powder:** 2 tbsp (6 tsp)
+*   **Rice Vinegar:** ¾ cup (12 tbsp)
+*   **Sriracha:** 6 tbsp (or 6 Homemade Sriracha cubes)
+*   **Pitted Medjool Dates:** 12 whole dates
+*   **Fresh Ginger:** 2 tbsp (or 2 thumbs, peeled & sliced) — *Optional gingerol/gut-motility upgrade*
+*   *In-Cube Bio-Signal Defaults (Scale by 12x):*
+    *   **Coarse-cracked Black Pepper:** 2 tbsp (6 tsp)
+    *   **Turmeric Powder:** 1 tbsp (3 tsp)
+    *   **Black Mustard Seeds (ground):** 2 tbsp (6 tsp)
+    *   **Sichuan Peppercorns (ground):** 2 tbsp (6 tsp)
+    *   **Black Garlic Powder:** ¼ cup (4 tbsp)
+
 ## Recommended Bio-Signal Defaults
 
 **These ship in the cube by default** — whisked into the base sauce before freezing. The protocol assumes you're stacking them; the "Further Bio-Signal Variants" section below is for *additional* signals on top of these.
@@ -81,34 +110,14 @@ Stack these *on top of* the [Recommended Bio-Signal Defaults](#recommended-bio-s
 ## Critical Rules
 
 - **Sesame oil never sees direct heat.** If you forget and add it with the cube, the glaze will smoke off the toasted aromatics — you've turned an expensive finishing oil into neutral fat. Always last, always off-heat.
+- **Sesame seeds are held out of the cube.** Blending them in the Vitamix grinds them into a paste (tahini), making the glaze chalky/muddy instead of glossy. Freezing them in liquid also ruins their crunchy texture. Storing seeds in the acidic rice vinegar environment degrades their delicate lignans (*sesamin* and *sesamolin*).
+  *   *The Toasting Method:* Toast a dry mix of black and white sesame seeds in a skillet on medium-low heat for **3 to 5 minutes**, swirling constantly. Transfer immediately to a cool bowl off-heat to prevent burning from the pan's residual heat. Sprinkle fresh over the seared, glazed tofu.
 - **Allicin lives outside the cube.** Roasting and freezing both destroy the alliinase enzyme that converts alliin → allicin. The rested-garlic cube goes in the pan in the last 30 seconds, off-heat.
 - **Honey is amortized.** 1 tsp per ~5 cubes ≈ ~⅕ tsp per cube ≈ negligible glycemic load per serving. If you want zero added sugar, swap to date paste (½ Medjool blended with 1 tbsp warm water).
 
-## Sesame Tofu Glaze (day-of application)
+## Day-Of Glazing Workflow (Application)
 
-The companion recipe to the cubes. Pairs Sheet 07 tofu prep with the new cube. Approximately 12 minutes day-of after thaw + press.
-
-### Cube count by serving
-
-| Application | Cubes | Notes |
-|---|---|---|
-| Half block tofu (one meal) | 1 cube | + 2 tbsp water + 1 tsp sesame oil at the pan |
-| **Full block tofu (two meals)** | **2 cubes** | Standard protocol portion · 200 g tofu per meal |
-| Saucy noodles / stir fry | 3 cubes | + 3 tbsp water · ramp sesame oil to 1½ tsp |
-
-### Day-of timeline (~12 min after Sheet 07 thaw + press)
-
-| Clock | Action | Why |
-|---|---|---|
-| 00:00 | Tofu thawed + brined + pressed per [Sheet 07](./protocol-tofu.md). Cube slabs into 1″ pieces. | Extra-firm only · no gums |
-| 00:00 | Crush 2–3 garlic cloves · **rest 10 min** OR pull 1 rested-garlic cube from freezer 10 min before cooking to partial-thaw — keeps the pan from cooling more than ~5 °F when added off-heat. See [freeze-system.md](./freeze-system.md). | Allicin formation — non-negotiable |
-| 00:01 | Air fryer 400 °F · 15–20 min · until crispy edges | OR pan-sear 60–90 sec/side in 2 tbsp avocado oil |
-| 00:15 | Pan on low — drop 2 sauce cubes + 2 tbsp water | Stir until cubes melt and glaze is glossy |
-| 00:17 | Add rested garlic cube · stir 30 sec **off-heat** | Off heat preserves allicin |
-| 00:18 | Toss crispy tofu in the glaze · coat fully | Glossy · sticky · coated, not soupy |
-| 00:19 | **OFF HEAT.** Drizzle 1 tsp toasted sesame oil over the tofu | Sesame oil never sees flame · finishing oil only |
-| 00:19 | Top with 1 tbsp toasted sesame seeds + 5–6 torn mint leaves | Sheet 07 TRPV1 / TRPM8 synergy rule |
-| 00:20 | Serve immediately — within 5 min for peak aroma | Mint volatiles dissipate fast |
+To cook your tofu or veggies and glaze them using these sauce cubes, follow the unified, step-by-step cooking and finishing instructions in the **[Day-Of Glazing Master-Workflow (Tofu & Veggies)](./tofu-cube-glaze-workflow.md)**.
 
 ### Frequency & Pairing
 

@@ -25,6 +25,16 @@ Follows the design principles in the [Sauce Cubing Master Guide](./sauce-cubing-
 
 **Build-your-own spice base (instead of curry paste):** 1 tsp turmeric · 1 tsp ground cumin · 1 tsp ground coriander · ½ tsp ground cardamom · ¼ tsp ground cinnamon · 1 tsp lemongrass paste (optional).
 
+**Sriracha-to-Red Curry Paste Conversion (Replaces 2 tbsp Curry Paste):**
+If you do not have commercial red curry paste, whisk or blend these ingredients together to create 2 tablespoons of fresh, probiotic red curry paste:
+*   **2 tbsp [Homemade Sriracha](./sriracha-homemade.md)** (The chili-garlic-salt-acid base)
+*   **1 tsp Lemongrass Paste** (or 1 stalk fresh lemongrass, white inner core only, sliced thin)
+*   **1 tsp Ginger or Galangal Paste** (grated)
+*   **½ tsp fresh Lime Zest** (replaces kaffir lime peel)
+*   **½ tsp White Miso** (replaces traditional shrimp paste)
+*   **½ tsp Ground Coriander**
+*   **½ tsp Ground Cumin**
+
 ## Recommended Bio-Signal Defaults
 
 **These ship in the cube by default** — added in Method step 1 (or off-heat for miso). The protocol assumes you're stacking them; the "Further Bio-Signal Variants" section below is for *additional* signals on top of these.
@@ -114,7 +124,7 @@ The full quarterly batch is **8 cans of coconut milk** total, processed as **two
 | Ingredient | Per run (4×) | Full batch (8×) | Notes |
 |---|---|---|---|
 | Full-fat coconut milk | 4 cans (~54 oz / ~1.6 L) | 8 cans (~108 oz / ~3.2 L) | Bulk of the input volume |
-| Red curry paste | ½ cup (8 tbsp) | 1 cup (16 tbsp) | Or 4× / 8× the build-your-own spice base |
+| Red curry paste | ½ cup (8 tbsp) | 1 cup (16 tbsp) | Or 4× / 8× the build-your-own spice base, or Sriracha shortcut (see below) |
 | Tamari / soy sauce | ½ cup (8 tbsp) | 1 cup (16 tbsp) | — |
 | Lime juice | ½ cup (8 tbsp) | 1 cup (16 tbsp) | Fresh-squeezed best · bottled OK at this scale |
 | Salt | 2 tsp | 4 tsp | Adjust after the combined reduce |
@@ -125,6 +135,16 @@ The full quarterly batch is **8 cans of coconut milk** total, processed as **two
 | **Black garlic powder** (default) | 4 tsp (1⅓ tbsp) | 8 tsp (~2¾ tbsp) | Heat-stable SAC |
 | **White miso** (default, off-heat) | ¼ cup (4 tbsp) | ½ cup (8 tbsp) | After simmer · preserves live LAB |
 | **Pea protein OR hemp hearts** (default) | ½ cup (8 tbsp) | 1 cup (16 tbsp) | Satiety + protein boost |
+
+### Sriracha-to-Red Curry Paste Vitamix Scale (Replaces ½ cup Curry Paste per 4x Run)
+If executing a Vitamix run using the Sriracha shortcut, blend these ingredients directly into the pitcher along with the coconut milk:
+*   **½ cup [Homemade Sriracha](./sriracha-homemade.md)**
+*   **4 tsp Lemongrass Paste** (or 1.5 to 2 fresh lemongrass stalks, white inner core only, sliced thin)
+*   **4 tsp Ginger/Galangal Paste**
+*   **2 tsp fresh Lime Zest**
+*   **2 tsp White Miso**
+*   **2 tsp Ground Coriander**
+*   **2 tsp Ground Cumin**
 
 **Per-run input volume: ~7 cups** — comfortably inside a 64 oz Vitamix (8-cup) container with headroom for blending without splatter. **If your container is closer to 7 cups working capacity, split a single run into two halves and combine in the pot** rather than overfilling.
 
@@ -178,3 +198,4 @@ The preservation stack: **full-fat coconut milk + acid + salt + reduction**.
 - [Sauce Cubing Master Guide](./sauce-cubing-master-guide.md) — the design principles that govern every sauce cube
 - [Master Freeze System](./freeze-system.md) — rested garlic stash + thaw cadences
 - [Tofu Protocol](./protocol-tofu.md) — pairs with the curry-glaze variant
+- [Day-Of Glazing Master-Workflow (Tofu & Veggies)](./tofu-cube-glaze-workflow.md) — step-by-step day-of cooking instructions

@@ -221,3 +221,4 @@ Stack these *on top of* the [Recommended Bio-Signal Defaults](#recommended-bio-s
 - [Veg-Oyster-Sriracha Combo Cubes](./veg-oyster-sriracha-combo-cubes.md) — stack on top for tofu+noodle bowls
 - [Freeze System](./freeze-system.md) — rested-garlic cube location · tray inventory
 - [Protocol Tofu](./protocol-tofu.md) — day-of tofu prep that pairs with this glaze
+- [Day-Of Glazing Master-Workflow (Tofu & Veggies)](./tofu-cube-glaze-workflow.md) — step-by-step day-of cooking instructions

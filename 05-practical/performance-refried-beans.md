@@ -13,7 +13,7 @@ Traditional refried beans (Michoacán style) are high-heat fried and heavily mas
 *   1.5 cups pre-cooked, 24h-chilled Black Beans or Chickpeas.
 *   1 tbsp Extra Virgin Olive Oil (EVOO) - *Added at the end.*
 *   1 tsp fresh garlic (**Crushed and rested 10 min [[Song & Milner, 2001]](../07-appendices/master-citations.md#3-allicin-activation-the-10-minute-garlic-rule)**) & 1/2 tsp fresh ginger [[Wu, 2008]](../07-appendices/master-citations.md#11-operational-mechanisms-bio-enhancement--degradation).
-*   1 tsp Apple Cider Vinegar or Balsamic Vinegar (The "Acid Shield").
+*   1 tsp Apple Cider Vinegar OR 1–2 tsp [Homemade Sriracha](./sriracha-homemade.md) (The "Acid Shield" + TRPV1 capsaicin/probiotic boost).
 *   **1/4 cup Reserved Aquafaba** (Added during mashing for restaurant-level creaminess).
 
 **🌱 Digestion Stack (The Anti-Gas Layer):**
@@ -41,7 +41,7 @@ Traditional refried beans (Michoacán style) are high-heat fried and heavily mas
 2.  **The Dry Bloom (1-2 Minutes):** Heat a pan on **medium-low**. Add the **Methi seeds** and **Cumin seeds** to the dry pan. Toast them for 30-60 seconds until fragrant.
 3.  **The Aromatic Buffer (The Sweetness Phase):** Add a tiny splash of water (or bean liquid). Add the minced garlic, ginger, diced bell pepper, and onion. **Sauté for 6 minutes** (longer time allows onions to caramelize and release natural sugars). The water content in these aromatics drops the temperature of the pan, creating a safe "buffer zone" for the powdered spices.
 4.  **The Flash Bloom (Powders):** Add the **Achiote**, remaining **Digestion Stack** spices, cinnamon, **Chaat Masala**, and smoked paprika. Stir continuously for **10-20 seconds maximum**. Powders burn instantly. The fat will immediately extract the fat-soluble compounds (turning the base a deep red color). 
-5.  **The Gentle Fold:** Immediately add the mashed creamy beans and the **Acid Shield** (vinegar) to stop the spices from roasting. Stir constantly to combine.
+5.  **The Gentle Fold:** Immediately add the mashed creamy beans and the **Acid Shield** (vinegar or sriracha) to stop the spices from roasting. Stir constantly to combine. (Adding sriracha here preserves its raw probiotic cultures as the temperature is kept under the 130°F ceiling).
 6.  **The 130°F Rule:** Heat only until the beans are warm to the touch (approx. 130°F). Stop as soon as you see steam. Do not let it bubble or boil.
 7.  **Finish with Raw Fat & Mineral Lock:** Turn off the heat. Drizzle the **EVOO** over the beans and fold it in. Sprinkle your raw pinch of **Black Salt** and fold in the fresh cilantro and stems.
 

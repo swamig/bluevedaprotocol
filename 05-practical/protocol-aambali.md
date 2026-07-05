@@ -36,8 +36,11 @@ You do **not** cook the porridge every day. You batch-cook the starch base on Su
 **The Daily Routine (Stage 2: The 12h Probiotic Bloom):**
 You do **not** ferment the entire week's batch at once, as it will turn excessively sour and the lactic acid bacteria will die off after consuming all the starch.
 1.  **Morning Prep (07:00):** Scoop ~1/2 cup of the chilled, solid Ragi paste into a bowl. Whisk it with a splash of water and **1/4 cup of Live-Culture Yogurt** until it reaches a buttermilk consistency.
-2.  **The Ferment:** Cover with a breathable cloth and let it sit on the counter in a dark, warm place for **10-12 hours**. 
-3.  *Mechanism:* The overnight lactic acid fermentation degrades mineral-blocking phytates and populates the matrix with live *Lactobacillus* strains that seed the gut mucosa [[Nout, 2009]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3). This daily routine ensures you are consuming the probiotics at the absolute peak of their bloom phase at 17:50.
+2.  **The Ferment:** Cover with a breathable cloth and let it sit on the counter in a dark, warm place. 
+    *   *Warm Kitchen (75°F to 77°F / 24°C to 25°C):* Ferment for **8–10 hours**.
+    *   *Cool/Standard Kitchen (65°F to 72°F / 18°C to 22°C):* Ferment for **10–12 hours** (up to 18 hours if very cold).
+    *   *Ready Cue:* The porridge is done when it smells slightly sour/tangy and tiny carbonation bubbles are visible at the surface.
+3.  *Mechanism:* The lactic acid fermentation degrades mineral-blocking phytates and populates the matrix with live *Lactobacillus* strains that seed the gut mucosa [[Nout, 2009]](../07-appendices/master-citations.md#7-gut-microbiome--resistant-starch-type-3). This daily routine ensures you are consuming the probiotics at the absolute peak of their bloom phase at 17:50.
 
 ## 4. Execution (The 17:50 Recovery Window)
 1.  **The Cooling Check:** Transfer the fermented Aambali to a glass.

@@ -40,15 +40,23 @@ Freezing is not optional — it is the structural upgrade that makes tofu worth 
 - **Fridge overnight** (preferred) — slow thaw preserves texture better than fast methods
 - **Cold water fast thaw** — submerge sealed bag in cold water 30–60 min
 
-### Step 2 — Salt Brine
+### Step 2 — Salt Brine (with Aromatic Infusion Options)
 After thawing, before pressing or marinating:
 
-1. Bring a pot of water to a **full boil**
-2. Add **1 tsp salt per 4 cups water**
-3. Submerge tofu slabs for **3–5 minutes**
-4. Remove, transfer to a clean surface
+1. Bring a pot of water to a **full boil** (typically 4 cups / 1 Liter, or scale to 1 cup for small portions).
+2. Add the base salt and optional Tamari using the following ratios:
+   *   **Standard (4 cups water):** 1 tsp Sea Salt + 1 tbsp Tamari (optional)
+   *   **Per-Cup (1 cup water):** ¼ tsp Sea Salt + ¾ tsp Tamari (optional)
+3. **Optional Aromatic Infusions:** To season the core of the tofu slabs without adding powders that will burn during the sear, add *only* soluble liquids or whole spices to the boiling water:
+   *   *Umami Spike:* **Tamari or Soy Sauce** (ratios listed above; provides deep glutamate penetration).
+   *   *Gingerol Pulse:* **1 slice of fresh ginger root** (approx. ¼-inch thick, smashed).
+   *   *Volatile Oil Infusion:* **1 whole star anise pod** OR **1 small cinnamon stick** OR **3 crushed green cardamom pods** (releases heat-stable aromatics into the pores).
+   *   > [!IMPORTANT]
+       > **The Single-Profile Restriction (No-Mix Rule):** Choose only *one* volatile oil option per batch. Stacking star anise, cinnamon, and cardamom together creates a sweet profile (similar to Chai) that clashes with the savory garlic-chili-ginger notes of the final [Sriracha](./sriracha-homemade.md) or [Sesame](./sesame-sauce-cubes.md) seared glaze. Additionally, keeping the infusion to a single spice prevents receptor binding conflict and maintains Ayurvedic doshic harmony by avoiding the mixing of heating (cinnamon) and cooling (cardamom) thermal agents.
+4. Submerge tofu slabs for **3–5 minutes**.
+5. Remove, transfer to a clean surface.
 
-**Why:** the boil expels residual ice-crystal water and opens the pores fully; the salt penetrates the interior, seasoning from inside rather than just the surface. Net result: seasoned through, drier surface, superior crust on the flash sear.
+**Why:** The boil expels residual ice-crystal water and opens the pores fully; the salt and soluble aromatics penetrate the interior, seasoning from inside rather than just the surface. Net result: seasoned through, drier surface, superior crust on the flash sear.
 
 ### Step 3 — Press
 After brine, press briefly — 5 minutes with a clean towel and a heavy pan on top. Most water has already exited from the brine step; this is a final dry.

@@ -47,7 +47,7 @@ This protocol does not use multi-month "detox" blocks. Instead, it utilizes a da
 *   **Daily Dose (Elite Sprout Alternative):** 2 tbsp (Rest/Cardio), 1/4 Cup (Lift/4x4). *Note: Sprouts are ~2x as concentrated as microgreens.*
 *   **The Sprout Freezing Hack (3x Potency):** If using sprouts, place them in the freezer for 24 hours before use. The ice crystals will rupture the cell walls (lysis), mixing the enzymes and precursors perfectly as they thaw in your salad, increasing the sulforaphane yield by **300%**.
 *   **Action:** Simply place the raw Broccoli Microgreens or thawed sprouts on top of your daily greens. Do NOT cook.
-*   **The Dijon Mustard Hack:** The `Master Dressing` recipe in your Sunday Prep automatically includes **Dijon Mustard**. Dijon is made from mustard seeds, which contain highly resilient myrosinase. The dressing acts as an exogenous "insurance policy" to maximize conversion in the gut [[Fahey, 2015]](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control).
+*   **The Homemade Functional Mustard Hack:** The `Master Dressing` recipe in your Sunday Prep is optimized by adding **[Homemade Functional Mustard](./mustard-homemade.md)**. Mustard seeds contain highly resilient, active myrosinase enzymes. The raw, cold-processed mustard acts as an exogenous "insurance policy" to maximize sulforaphane conversion in the gut [[Fahey, 2015]](../07-appendices/master-citations.md#4-sulforaphane--inflammatory-control).
 
 
 ## Mature Broccoli Equivalence (The Concentration Factor)

@@ -134,7 +134,7 @@ Pre-portion 7 tiny containers/packs for your 07:15 morning hydration to remove m
     *   *Elite Hybrid:* 7 tbsp Terra Delyssa + 7 tbsp Bryan Johnson's "Snake Oil".
 2.  **7 tbsp Balsamic Vinegar** (Just under 1/2 cup).
 3.  **7 tbsp Tomato Puree** (Just under 1/2 cup).
-4.  **7 tsp Dijon Mustard** (Sugar-free).
+4.  **7 tsp [Homemade Functional Mustard](./mustard-homemade.md)** (or sugar-free Dijon as fallback).
 
 **The Bioavailability Mandate:**
 *   **DO NOT** add Turmeric or Black Pepper to this master jar.

@@ -27,8 +27,10 @@ Drops directly into [Sesame Sauce Cubes](./sesame-sauce-cubes.md) as a 1:1 swap 
 1. **Blend coarse.** Peppers + Thai chili + garlic + salt to a coarse paste — ~10 sec pulse, **not** smooth.
 2. **Pack.** Press the paste into a clean glass jar. Brine should rise above the solids. Leave 1″ headspace.
 3. **Weight.** Weight the solids under the brine (a small jar-of-water or fermentation weight) — **exposed pepper goes moldy**.
-4. **Ferment.** Cover loosely with cheesecloth or an airlock lid. **Ferment at room temp 5–7 days.** Burp daily if using a tight lid (CO₂ builds).
-5. **Check.** Day 5–7: surface should bubble when stirred; aroma is funky-fruity, not vinegary-yet. Refrigerate to halt the ferment.
+4. **Ferment.** Cover loosely with cheesecloth or an airlock lid. **Ferment at room temp (typically 5–7 days).** Burp daily if using a tight lid (CO₂ builds).
+   > [!TIP]
+   > **Temperature Acceleration Rule:** If your indoor environment is kept warm (75°F to 77°F / 24°C to 25°C), it acts as a fermentation accelerator. Under these conditions, the active probiotic and yeast bloom completes in **4 to 5 days** (the biological equivalent of 7–8 days at 68°F). Harvest early at peak bubbling to prevent over-souring or Kahm yeast overgrowth.
+5. **Check (The Stir & Bubble Test).** Day 4–7: surface should bubble actively when stirred, and the paste should feel aerated. Taste a tiny portion—the raw, grassy pepper bite should be gone, replaced by a funky-fruity, tangy aroma and sour flavor (not vinegary-yet). Refrigerate immediately to halt the ferment once this peak is reached.
 6. **Blend.** Transfer to blender. Add vinegar + date paste. Blend smooth.
 7. **Strain (optional).** Strain through fine mesh for the classic smooth bottle texture · OR skip strain for rustic.
 8. **Bottle or cube.** Squeeze bottle (fridge, 6 months) OR ice tray (freezer, 6 months).

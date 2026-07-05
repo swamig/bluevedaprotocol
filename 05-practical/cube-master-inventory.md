@@ -33,6 +33,7 @@ Single navigation reference for every freezer cube in the BlueVeda system. Lists
 | Sriracha (homemade) | **6 months** (high acid + sugar) | ~1 tsp (mini) | [sriracha-homemade.md](./sriracha-homemade.md) |
 | Veg Oyster + Sriracha Combo | **4 months** | ~1 tbsp (mini) | [veg-oyster-sriracha-combo-cubes.md](./veg-oyster-sriracha-combo-cubes.md) |
 | Creamy Coconut Protein | 3 months | ~1 tbsp (mini) | [coconut-protein-cubes.md](./coconut-protein-cubes.md) |
+| Coconut Lemongrass Curry | 3 months | ~1 tbsp (mini) | [coconut-lemongrass-cubes.md](./coconut-lemongrass-cubes.md) |
 | Pad Thai Peanut | 3 months | ~1 tbsp (mini) | [pad-thai-peanut-cubes.md](./pad-thai-peanut-cubes.md) |
 
 ### Tadka / Spice Pulse Cubes
